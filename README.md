@@ -143,6 +143,6 @@ app/
 Dilisensikan di bawah MIT License.  
 Hak Cipta © 2025 Raka Agi Saputra
 
-Silakan lihat berkas `[LISENSE](LICENSE)` untuk informasi selengkapnya.
+Silakan lihat berkas [LISENSE](LICENSE) untuk informasi selengkapnya.
 
 ---
