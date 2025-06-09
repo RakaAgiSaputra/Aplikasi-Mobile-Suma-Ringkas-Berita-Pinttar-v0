@@ -132,10 +132,8 @@ app/
 ## 📄 Lisensi
 
 Dilisensikan di bawah MIT License.  
-Hak Cipta © 2025 [Nama Anda]
+Hak Cipta © 2025 Raka Agi Saputra
 
 Silakan lihat berkas `LICENSE` untuk informasi selengkapnya.
 
 ---
-
-> Jika kamu ingin saya bantu membuat file `README.md` ini langsung dalam bentuk file yang bisa diunduh, cukup beri tahu saya!
