@@ -6,8 +6,9 @@ Aplikasi Android dengan **Jetpack Compose** yang dapat meringkas artikel berita 
 
 ## 🔗 API Backend Aktif
 
-Tersedia di: [https://web-production-b3485.up.railway.app/](https://web-production-b3485.up.railway.app/)
-Repository Github: [API-FLASK-SUMA-RAKA-V0](https://github.com/RakaAgiSaputra/summarize-api-flask-v0.git)
+- Tersedia di: [https://web-production-b3485.up.railway.app/](https://web-production-b3485.up.railway.app/)
+
+- Repository Github: [API-FLASK-SUMA-RAKA-V0](https://github.com/RakaAgiSaputra/summarize-api-flask-v0.git)
 
 ---
 
