@@ -21,10 +21,9 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import com.example.suma.viewmodel.SummarizeViewModel
 
-@OptIn(ExperimentalMaterial3Api::class)
+
 @Composable
 fun NewsSummarizerScreen(viewModel: SummarizeViewModel) {
-    // ❌ Akses langsung ke properti ViewModel — akan memunculkan warning
     val urlInput = viewModel.urlInput
     val summaryResult = viewModel.summaryResult
     val isLoading = viewModel.isLoading
@@ -75,6 +74,7 @@ fun NewsSummarizerScreen(viewModel: SummarizeViewModel) {
                 shape = RoundedCornerShape(16.dp),
                 modifier = Modifier
                     .fillMaxWidth()
+                    .height(75.dp)
                     .padding(bottom = 8.dp)
             )
 
@@ -154,7 +154,10 @@ fun NewsSummarizerScreen(viewModel: SummarizeViewModel) {
                                 .fillMaxSize()
                                 .padding(4.dp),
                             elevation = CardDefaults.cardElevation(defaultElevation = 4.dp),
-                            shape = RoundedCornerShape(20.dp)
+                            shape = RoundedCornerShape(20.dp),
+                            colors = CardDefaults.cardColors(
+                                containerColor = Color.White
+                            )
                         ) {
                             LazyColumn(
                                 modifier = Modifier
@@ -218,11 +221,4 @@ fun sanitizeHtml(rawHtml: String): String {
         .replace(Regex("<script.*?>.*?</script>", RegexOption.DOT_MATCHES_ALL), "")
         .replace("<mark>", "<span style=\"background-color:yellow\">")
         .replace("</mark>", "</span>")
-}
-
-fun colorToHex(color: Color): String {
-    val red = (color.red * 255).toInt()
-    val green = (color.green * 255).toInt()
-    val blue = (color.blue * 255).toInt()
-    return String.format("#%02X%02X%02X", red, green, blue)
 }
