@@ -12,6 +12,14 @@ Aplikasi Android dengan **Jetpack Compose** yang dapat meringkas artikel berita 
 
 ---
 
+---
+
+## 📱 Aplikasi Aktif
+
+- Tersedia di: [Download Aplikasi Suma](app-debug.apk)
+
+---
+
 ## 📱 Teknologi yang Digunakan
 
 ### Frontend (Android):
@@ -134,6 +142,6 @@ app/
 Dilisensikan di bawah MIT License.  
 Hak Cipta © 2025 Raka Agi Saputra
 
-Silakan lihat berkas `LICENSE` untuk informasi selengkapnya.
+Silakan lihat berkas `[LISENSE](LICENSE)` untuk informasi selengkapnya.
 
 ---
