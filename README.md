@@ -23,7 +23,7 @@ Aplikasi Android dengan **Jetpack Compose** yang dapat meringkas artikel berita 
 
 ### Backend (API):
 - **Python** (Flask)
-- **HuggingFace Transformers / NLP** *(diasumsikan)*
+- **NLP** 
 - **Railway.app** untuk hosting
 
 ---
