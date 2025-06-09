@@ -41,9 +41,10 @@ Tersedia di: [https://web-production-b3485.up.railway.app/](https://web-producti
 
 | Input URL | Proses Loading | Hasil Ringkasan |
 |---|---|---|
-| https://www.cnnindonesia.com/internasional/20240529065909-134-1103128/negara-eropa-mulai-resmi-akui-palestina-merdeka-apa-dampaknya?_gl=1*1hblvjw*_ga*ckJxQlpCbXZKQVFpUF9McUlwVWFySk50S01xZ19Pc3MwTjBtdlR0aDdXSm5uUlpnU1NkTDlqTHlXZmxjQVV0eg..*_ga_HPHHPFJMXH*MTc0OTM4ODI3Ni4xLjEuMTc0OTM4ODI3Ni4wLjAuMA | ![](app/src/main/res/drawable/image.png) | ![](app/src/main/res/drawable/Hasil.jpeg) |
+| [Url - Berita - cnnindonesia.com - Palestina Merdeka](https://www.cnnindonesia.com/internasional/20240529065909-134-1103128/negara-eropa-mulai-resmi-akui-palestina-merdeka-apa-dampaknya?_gl=1*1hblvjw*_ga*ckJxQlpCbXZKQVFpUF9McUlwVWFySk50S01xZ19Pc3MwTjBtdlR0aDdXSm5uUlpnU1NkTDlqTHlXZmxjQVV0eg..*_ga_HPHHPFJMXH*MTc0OTM4ODI3Ni4xLjEuMTc0OTM4ODI3Ni4wLjAuMA) | ![](app/src/main/res/drawable/image.png) | ![](app/src/main/res/drawable/Hasil.jpeg) |
 
 ---
+
 
 ## 🔍 Cara Kerja
 
