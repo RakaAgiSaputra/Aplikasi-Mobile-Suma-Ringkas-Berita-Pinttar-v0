@@ -12,12 +12,15 @@ Aplikasi Android dengan **Jetpack Compose** yang dapat meringkas artikel berita 
 
 ---
 
----
-
 ## 📱 Aplikasi Aktif
 - Tersedia di: [Download Aplikasi Suma](app-debug.apk)
 - Lalu Klik Download Raw File Dipojok Kanan atas
 - ![](app/src/main/res/drawable/Download.png)
+
+---
+
+## 🧠 Langkah Pembuatan NLP Ringkas Berita - NLP 
+- Tersedia di: [Google Colab](https://colab.research.google.com/drive/1-vCUVRmwFv7NbGIcjXKAPfS_30IZJzUx?usp=sharing)
 
 ---
 
